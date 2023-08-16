@@ -24,7 +24,7 @@ require (
 	github.com/stevvooe/resumable v0.0.0-20180830230917-22b14a53ba50 // indirect
 	github.com/urfave/cli v1.20.0
 	github.com/vishvananda/netlink v1.0.0
-	golang.org/x/net v0.1.0
+	golang.org/x/net v0.7.0
 	golang.org/x/time v0.3.0 // indirect
 	gotest.tools/v3 v3.5.0 // indirect
 )
