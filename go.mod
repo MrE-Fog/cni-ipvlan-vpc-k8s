@@ -8,7 +8,7 @@ require (
 	github.com/containernetworking/plugins v0.8.5
 	github.com/coreos/go-iptables v0.4.5
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/docker/distribution v2.6.2+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.3.3 // indirect
@@ -21,7 +21,6 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/stevvooe/resumable v0.0.0-20180830230917-22b14a53ba50 // indirect
 	github.com/urfave/cli v1.20.0
 	github.com/vishvananda/netlink v1.0.0
 	golang.org/x/net v0.1.0
