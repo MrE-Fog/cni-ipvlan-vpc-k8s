@@ -3,7 +3,7 @@ module github.com/lyft/cni-ipvlan-vpc-k8s
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.29.27
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/containernetworking/cni v0.7.1
 	github.com/containernetworking/plugins v0.8.5
 	github.com/coreos/go-iptables v0.4.5
